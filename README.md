@@ -20,3 +20,5 @@ python -m streamlit run app.py
 ### Offline demo
 
 Select the **Use offline demo** option in the application to test the storybook workflow without making AI API calls. Demo mode uses a sample story and placeholder illustrations.
+
+LIVE DEMO - https://aiagentstorybook-5dswuz9twmmo5il4q8jlzp.streamlit.app/
