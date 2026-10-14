@@ -1,0 +1,10 @@
+langchain>=1.0.0,<2.0.0
+langchain-core>=1.0.0,<2.0.0
+langchain-google-genai>=3.0.0
+# Used by story_generator.py's direct Gemini API helper
+google-genai>=1.0.0
+pydantic>=2.7.0,<3.0.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+reportlab>=4.0.0
+replicate>=1.0.0
